@@ -1,0 +1,104 @@
+\documentclass[11pt]{article}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\date{}
+\usepackage[export]{adjustbox}
+\begin{document}
+\title{\line(1,0){250} \\ \huge{\textbf{2019-2020 Bahar Yarıyılı\\ BLM2512 Veri Yapıları ve Algoritmalar 2. Ödevi}} \\ \line(1,0){250}}
+\author{\textsc{Mesut Şafak Bilici} \\ \textsc{17011086}}
+\maketitle
+
+Bu ödevde bir \textit{Linked List} yapısı kurup, onu \textit{Inserton Sort} ile sıralayıp, \textit{Huffman Tree} yapısına çevirip Level Order bir şekilde bastırmam gerekiyordu. Bu işlemleri yaptığım fonksiyonlar aşağıdaki gösterilmiştir:
+
+\begin{enumerate}
+\item void insertLinkedList(NODE**,char);
+	\begin{itemize}
+	\item İlk olarak input dosyamdaki harfler için frekans bazlı bir linked 			  linked list oluşturmam gerekiyordu. Buradaki önemli kontrol
+	      harfleri teker teker yerleştirirken ve tüm linked list'i kontrol       		  ederken, while geldiğinde eğer en sondaysam, ya next NULL olabilir 	 		  ya da son eleman input char ile aynıdır. 
+	\end{itemize}
+\item void printLinkedList(NODE**);
+	\begin{itemize}
+	\item Basit bir şekilde, current isimli geçici değişkenimle linked   			      list'in sonuna giderken bastırıyoruz. Program içinde kullanıldığı     		  bir yer yok fakat kontrol amaçlı yazıldı.
+	\end{itemize}
+\item void insertionSortToLinkedList(NODE**);
+	\begin{itemize}
+	\item Burada Huffman Tree oluşturmadan önce son işlemimizi yapıyoruz: 				  Linked List'i sıralamak. Verilen ödevlendirme üzerinde kullanılan   		  algoritma Insertion Sort olmuştur. Bilindiği gibi Insertion Sort'ta 
+		  kontrol işlemleri için iki farklı indis değişkeni, ve bu indis  		       	  değişkenleri ile iki farklı array bölgesi tutuyoruz. Bu değerleri  			  karşılaştırarak da sıralamamızı yapıyoruz. Fakat elimizde indis 	   		  tutma durumu olmadığı için bu işe yarayan değişkenlerimiz 	  				  \textit{start1} ve \textit{start2} olarak belirlenmiştir. Tıpki  				  basit bir array sıralama işlemi yapıyormuş örneği verilecek olursa, 		  i 1'den başlayacak şekilde start1 = arr[i] ve j=i-1 olacak şekilde
+		  start2 = arr[j] olmuştur. En başta belirlenen temp-of-the-temps
+		  isimli değişken her bir node'un letter bilgisini swap etmek için
+		  tanımlanmıştır. Kullanılan mantık basit bir array işlemi ile 
+		  aynı fakat elimizde array indexing yerine linked list vardır.  
+	\end{itemize}
+\item void readFromFile(NODE**,char*);
+	\begin{itemize}
+	\item fgetc(FILE*) fonksiyonu ile teker teker karakterler okunmuştur.
+		  Fakat dosyanın sonuna geldiğimizde new line okuduğu için her zaman 
+		  içerde buffer'ın new line karakterine eşit olup olmama kontrolü 	 		 	  yapıldı.
+	\end{itemize}
+\item void readFromStdin(NODE**);
+	\begin{itemize}
+	\item Elle klavyeden girdi yapmak için fonksiyon. EOF sinyali gelene
+		  kadar okuma yapmaya devam eder. (EOF = Ctrl+d)
+	\end{itemize}
+\item void insertButSorted(NODE**,NODE*);
+	\begin{itemize}
+	\item Bu fonksiyon özel olarak Huffman Ağacını oluştururken toplanmış
+		  frekanslara sahip olan node'ların yerini belirleyip oraya insert
+		  etmek için yazılmıştır. Eğer direkt head'in frekansından düşükse
+		  head'in yerine geçer bir ilerisi eski head olur. Eğer ki öyle 
+		  değilse önceden linked list sıralandığı için büyük olana kadar
+		  frekans, linked list içerisinde ilerlenir ve sonrasında olması
+		  gereken yere insert edilir.
+	\end{itemize}
+\item void doThatTree(NODE**);
+	\begin{itemize}
+	\item Bu fonksiyonda artık Huffman Tree'yi tam olarak gerçekliyoruz.
+		  Elimizdeki linked list doubly linked list olmadığı için bir önceki
+		  node'a ulaşmamız biraz güçleşiyor. Bunu engellemek için iki farklı 
+		  current değişkeni tanımladım. While içinde linked listin sonuna
+		  giderek ağacımızı gerçekledim. İlk olarak yeni oluşacak node için
+		  dinamik bellek alokasyonu yaptım. Sonra bu newnode'un frekans
+		  bilgisine linked listin en küçük iki elemanının frekans 
+		  bilgisini toplamını atadım. Daha sonra bu newnode'un left ve right
+		  bilgilerine bu iki node'u atadım. Bu işlemi linked list'in sonuna 
+		  kadar gerçekleştirdim. İstenilen input'un çıktısında boşluk
+		  karakteri olduğu için toplam frekansların letter bilgisine * 
+		  char'ını girdim. Bu şekilde boşluğun konumunu görebileceksiniz.
+	\end{itemize}
+\item void printSpecificLevel(NODE*,int);
+	\begin{itemize}
+	\item Bu fonksiyon verilen level'deki nodeları bastırıyor teker teker.
+		  Recursive bir fonksiyon. Eğer girilen NODE* parametresi NULL ise 
+		  çıkıyoruz fonksiyondan. Eğer NODE* parametresi tree'nin root'u ise
+		  bunu kontrol edip root'un frekansını ve letter'ını (root'un 
+		  letter'ı yok fakat karmaşa olmasın diye *'e eşitledik) 
+		  bastırıyoruz. Eğer bunlardan hiçbirisi ise recursive bir şekilde 
+		  leveli azaltarak node'larımızın left ve right bilgilerini basıyoruz
+		  .
+	\end{itemize}
+\item void printThatTree(NODE*);
+	\begin{itemize}
+	\item Bu fonskiyonda spesifik level'i bastırdığımız fonksiyonu ve ağacın
+		  level sayısını hesapladığımız fonksiyonu birlikte kullanıyoruz.
+		  Ağacın uzunluğunu bulup, for döngüsü içinde ve sınır bu uzunluk
+		  olacak şekilde teker teker ağacın levellerini bastırıyoruz.
+	\end{itemize}
+\item int getLevelCount(NODE*);
+	\begin{itemize}
+	\item Ağacımızın uzunluğunu / level sayısını hesaplıyoruz. Recursive bir 
+	fonksiyon. 
+	\end{itemize}
+\end{enumerate}
+\section{Main:}
+\hspace*{1cm} Main fonksiyonu içinde teker teker yukarıda belirtilen fonksiyonlar çağrılmıştır istenilenin yapılması için. Öncesinde kullanıcıya elle input mu gireceksin yoksa file'dan mı okuyacaksın sorusu sorulur. File ise file'ın ismini sorar. 
+\pagebreak
+\\
+\hspace*{1cm} \Large{\textbf{İstenilen çıktı aşağıdaki gibidir:}}
+
+\begin{figure}[htbp] % htbp stand for "here", "top", "bottom", "page"
+\includegraphics[scale=0.75,center]{aa.png} 
+\end{figure}
+\hspace*{1cm} 
+
+\end{document}
