@@ -1,0 +1,110 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\date{}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{subfig}
+
+\usepackage{apacite}
+\usepackage{listings}
+\lstdefinestyle{myCustomCStyle}{
+  language=C,
+  numbers=left,
+  stepnumber=1,
+  numbersep=10pt,
+  tabsize=4,
+  showspaces=false,
+  showstringspaces=false
+}
+\renewcommand{\lstlistingname}{Algorithm}% Listing -> Algorithm
+\renewcommand{\lstlistlistingname}{List of \lstlistingname s}
+\usepackage{listings}
+\usepackage{xcolor} % for setting colors
+
+% set the default code style
+\lstset{
+    frame=tb, % draw a frame at the top and bottom of the code block
+    tabsize=4, % tab space width
+    showstringspaces=false, % don't mark spaces in strings
+    numbers=left, % display line numbers on the left
+    commentstyle=\color{green}, % comment color
+    keywordstyle=\color{blue}, % keyword color
+    stringstyle=\color{red} % string color
+}
+
+
+
+\usepackage[margin=1.5in]{geometry}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{amsfonts}
+\usepackage{titlesec}
+\begin{document}
+\title{\line(1,0){250} \\ \huge{\textbf{Elektronik Devreler  \\ LAB2 \\Rapor}} \\\line(1,0){250}}
+\author{\textsc{Mesut Şafak Bilici} \\ 17011086}
+\maketitle
+\section{a) }
+Thevenin devresini gerçekleyerek başlayalım,
+$$R_{th} = RD_1 || RD_2$$
+$$R_{th} = \frac{RD_1 RD_2}{RD_1 + RD_2}$$
+$$V_B = E_{th} = \frac{RD_2}{RD_1 + RD} 15V$$
+$I_B$ akımının formülünü KCL yaparak hesaplayalım.
+$$V_B - R_{th} I_B - V_{BE} - I_ER_E = 0 \;\;[V_B = E_{th}\;\; , \;\;V_{BE} = 0.7 \;\; I_E=(\beta + 1)I_B ... ]$$
+$$=V_B - R_{th} I_B -V_{BE} - (\beta + 1)I_E = 0$$
+$$I_B = \frac{V_B - V_{BE}}{R_{th} + (\beta + 1)R_E}$$
+Geriye $I_E$ ve $I_B$'yi bulmak gerekiyor. Bunun için ise $\beta$'yı kullanacağız.
+$$ I_E = (\beta + 1) I_B$$
+$$ I_C = (\beta) I_B$$
+Geriye ise $I_{RD_1}$ ve $I_{RD_2}$ kalıyor.
+$$I_{RD_1}=\frac{15V -E_{th}}{RD_1}$$
+$$I_{RD_2}=\frac{E_{th}}{RD_2}$$
+Şimdi sırada değerleri hesaplamak kalıyor... Simülasyon sonucumuza göre $\beta \approx27$. Yukarıda çıkardığımız formüllere değerlerimizi koyarsak sırasıyla istenen değerler bulunur:
+$$R_{th} \approx 3428,6OHM$$
+$$E_{th} = V_B \approx 6,43V$$
+$$I_B = \frac{6,43 - 0.7}{ 3428,6 + 27 \times 1k} \approx 0,000182744A$$
+$$I_C = \beta I_B = 27 \times 0,000182744 \approx 0,004934088A$$
+$$I_E = (\beta + 1) I_B \approx 0,005261903A$$
+$$I_{RD_1}=\frac{15V -6,43}{8k} \approx 0,00107125A$$
+$$I_{RD_2}=\frac{6,43}{6k} \approx 0,00080375A$$
+$$V_{CE} = 15V- I_CR_C - I_ER_E \approx 15V - 0,004934088 \times 2k - 0,005261903 \times 1k$$
+$$=-0,100079V$$
+$$V_C=15V-R_CI_C = 15V - 2000 *  0,004934088 \approx 5,131824V$$
+$$V_E = - V_{CE} + V_{C} = 0,100079 + 5,131824 \approx 5,231903V$$
+\section{b) }
+\begin{figure}[H]
+\centering
+\includegraphics[width=15cm]{devre.png}
+\caption{gerçeklenmiş devre.}
+\label{fig:figure3}
+\end{figure}
+\pagebreak
+\section{c) }
+\begin{figure}[H]
+\centering
+\includegraphics[width=15cm]{sim.png}
+\caption{simülasyon devresi.}
+\label{fig:figure3}
+\end{figure}
+
+Devrede görüldüğü gibi $I_B = 0.000182011$ ve $I_C = 0.00492832$\\
+O zaman simülasyona göre,
+$$\beta = \frac{I_C}{I_B} = \frac{0.00492832}{0.000182011} \approx 27,077044794$$
+\pagebreak
+\section{d) }
+İstenilen simülasyon sonuçları c şıkkında verilmiştir. Şimdi teorik sonuçlarımızla simülasyon sonuçlarımızı karışılaştıralım.
+ $$\triangle I_B = | 0,000182744 - 0,000182011| = 0,000000733$$
+ $$\triangle I_C = | 0,004934088 - 0,00492832| = 0,000005768$$
+ $$\triangle I_{{RD_1}} = | 0,00107125 - 0,00114943| = 0,00007818$$
+ $$\triangle I_{{RD_2}} = | 0,00080375 - 0,000967422| =0,000163672$$
+ $$\triangle V_{B} = | 6,43 - 5,80453| =0,62547$$
+ $$\triangle V_{C} = | 5,131824 - 5,14336| =0,011536$$
+ $$\triangle V_{{CE}} = | -0,100079 - 0,03303| =0,133109$$
+
+
+
+
+\end{document}
