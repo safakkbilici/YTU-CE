@@ -4,4 +4,6 @@
 
 - Some homeworks contain solutions of mine. 
 
+- There is also a Google Drive folder, that has detailed folder structure.
+
 - If you want to contribute, contact safakk.bilici.2112@gmail.com
