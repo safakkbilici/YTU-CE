@@ -12,6 +12,6 @@
 
 Special thanks to contributors due to spreading the information, sources and knowledge free:
 
-- Osman BAHTIYAR 
+- Osman BAHTİYAR 
 - Yiğit YANDAŞ
 
