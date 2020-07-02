@@ -1,6 +1,6 @@
-# Yıldız Technical Univeristy Computer Engineering
+# Yıldız Technical University Computer Engineering
 
-- This is a repository of my lecture notes, slides, homeworks, examples from Yıldız Technical Univeristy Computer Engineering lectures. 
+- This is a repository of my lecture notes, slides, homeworks, examples from Yıldız Technical University Computer Engineering lectures. 
 
 - Some homeworks contain solutions of mine. 
 
