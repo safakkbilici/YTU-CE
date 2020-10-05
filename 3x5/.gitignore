@@ -1,0 +1,6 @@
+*.tex
+*.dvi
+img/*
+*.aux
+*.log
+*.synctex.gz
