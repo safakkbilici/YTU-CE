@@ -11,7 +11,9 @@ This is not a official YTU - CE repository. Repository contains
 
 All hand-taken materials belong to me or [contributors](https://github.com/safakkbilici/YTU-CE/blob/master/contributors.txt). Some lecture notes were not hand-taken (LaTeX PDF-DVI or something else). Lecture slides, homework explanation documents, past midterms or finals, example questions (training for exams) belong to lecturer. Lecturers will be annotated with its academic year + avesis website + scholar. A lot of homeworks have solutions of mine.
 
-Everyone is permitted to copy and distribute verbatim or modified copies of this repository's contents, and changing it is allowed as long as the name is changed. 
+Everyone is permitted to copy and distribute verbatim or modified copies of this repository's contents, and changing it is allowed as long as the name is changed.
+
+You are supposed to download pdf files because sometimes github cannot render big pdf files. It is meaningless to clone the whole repository.
 
 ## Terms and Lectures
 ### 1x1
