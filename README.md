@@ -24,7 +24,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 1x1 | [FIZ1001: Physics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3) | [Dr. Macide ÖZTÜRK RODOP](https://avesis.yildiz.edu.tr/mcrodop/deneyim), [Prof. Dr. Kemal ÖZDOĞAN](https://avesis.yildiz.edu.tr/kozdogan) | - |
 | 1x1 | [MAT1071: Mathematics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3) | [Dr. Salih ÇELİK](https://avesis.yildiz.edu.tr/sacelik), [Dr. Erdal GÜL](https://avesis.yildiz.edu.tr/gul) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x1/MAT1071%20-%20Mathematics%201/Notes.pdf), [Dr. Pinar ALBAYRAK's Notes](https://github.com/safakkbilici/YTU-CE/tree/master/1x1/MAT1071%20-%20Mathematics%201%20/P%C4%B1nar%20Albayrak%20Avesis) |
 | 1x1 | [Elective 1-1](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=196&aid=3) | - | - |
-| 1x1 | [Advanced English I](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=847&aid=3) | -| - | 
+| 1x1 | [MDB1031: Advanced English I](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=847&aid=3) | -| - | 
       
 ### 1x2
 | Term | Lecture | Lecturers | Materials
@@ -35,6 +35,12 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 1x2 | [FIZ1951: Semiconductor Physics for Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1954&aid=3) | [Dr. Çiğdem ORUÇ](https://avesis.yildiz.edu.tr/oruc) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/FIZ1951%20-%20Semiconductors%20for%20Engineers/T%C3%BCm%20Konular%20Ders%20Notu.pdf), [2018 Final](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/FIZ1951%20-%20Semiconductors%20for%20Engineers/2018%20Final.pdf) |
 | 1x2 | [BLM1992: Occupational Health and Safety 2](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9455&aid=3) | [Dr. Adem ALTAY](https://avesis.yildiz.edu.tr/aaltay/dokumanlar) | - |
 | 1x2 | [MAT1072: Mathematics 2](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1032&aid=3)| [Dr. Filiz KANBAY](https://avesis.yildiz.edu.tr/fkanbay)  |[Lecture Notes And Examples](https://github.com/safakkbilici/YTU-CE/tree/master/1x2/MAT1072%20-%20Mathematics%202)|
+| 1x2 | [MDB1032: Advanced English II](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=851&aid=3) | - | - |
+
+### 2 x 3
+
+
+
 ## Contributing
 
 Special thanks to contributors due to spreading the information, sources and knowledge free:
