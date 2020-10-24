@@ -45,10 +45,11 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 2x3 | [BLM2031: Structured Programming](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9460&aid=3) | [Dr. Hafize İrem TÜRKMEN ÇİLİNGİR](https://avesis.yildiz.edu.tr/irem), [Dr. Göksel BİRİCİK](https://avesis.yildiz.edu.tr/gbiricik), [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan), [Dr. Yunus Emre SELÇUK](https://avesis.yildiz.edu.tr/yselcuk) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/tree/master/2x3/BLM2031%20-%20Structured%20Programming)|
 | 2x3 | [BLM2041: Signals and Systems for Computer Engineers](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1954&aid=3) | [Dr. Ferkan YILMAZ](https://avesis.yildiz.edu.tr/ferkan), [Prof. Dr. Nizamettin AYDIN](https://avesis.yildiz.edu.tr/naydin) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/2x3/BLM2041%20-%20Signals%20and%20Systems/Signals%20and%20Systems%20Lecture%20Notes.pdf), [Slides](https://github.com/safakkbilici/YTU-CE/tree/master/2x3/BLM2041%20-%20Signals%20and%20Systems/Slides), [Examples](https://github.com/safakkbilici/YTU-CE/blob/master/2x3/BLM2041%20-%20Signals%20and%20Systems/Examples.pdf), [Exams](https://github.com/safakkbilici/YTU-CE/tree/master/2x3/BLM2041%20-%20Signals%20and%20Systems/Exams) |
 | 2x3 | [BLM2051: Seminar](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9462&aid=3) | [Assoc. Prof. Dr. Mehmet Fatih AMASYALI](https://avesis.yildiz.edu.tr/amasyali) | - | - |
-| 2x3 | [BLM2521: Discrete Mathematics](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5970&aid=3)| [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri), [Dr. Zeyneb KURT](https://avesis.yildiz.edu.tr/zeyneb/) | [Lecture Notes And Examples](https://github.com/safakkbilici/YTU-CE/tree/master/1x2/MAT1072%20-%20Mathematics%202)|
-| 2x3 | [MDB1032: Advanced English II](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=851&aid=3) | - | - |
+| 2x3 | [BLM2521: Discrete Mathematics](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5970&aid=3)| [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri), [Dr. Zeyneb KURT](https://avesis.yildiz.edu.tr/zeyneb/) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/2x3/BLM2521%20-%20Discrete%20Mathematics/Lecture%20Notes.pdf), [Slides](https://github.com/safakkbilici/YTU-CE/tree/master/2x3/BLM2521%20-%20Discrete%20Mathematics/Slides)|
+| 2x3 | [BLM2611: Logic Circuits](bologna.yildiz.edu.tr/index.php?r=course/view&id=5829&aid=3) | [Dr. Gökhan BİLGİN](https://avesis.yildiz.edu.tr/gbilgin), [Dr. Hamza Osman İLHAN](https://avesis.yildiz.edu.tr/hoilhan) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/2x3/BLM2611%20-%20Logic%20Circuits/Logic%20Circuits%20Lecture%20Notes.pdf) |
+| 2x3 | Elective 2-1 | - | - | 
 
-
+### 2 x 4
 
 ## Contributing
 
