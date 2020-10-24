@@ -19,7 +19,15 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
     * Lecturers:
        * [Dr. Mehmet Amaç GÜVENSAN](https://avesis.yildiz.edu.tr/amac)
        * [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan)
-
+  * [Occupational Health and Safety 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9454&aid=3)
+    * Lecturers
+       * [Dr. Adem ALTAY](https://avesis.yildiz.edu.tr/aaltay/dokumanlar)
+  * [Linear Algebra](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1006&aid=3)
+    * Lecturers
+       * [Dr. Hülya BURHANZADE](https://avesis.yildiz.edu.tr/hulyab)
+  * [Principles of Atatürk and History of Modern Turkey I](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=3298&aid=3)
+  * [Physics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3)
+  * [Mathematics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3)
 
 ## Contributing
 
