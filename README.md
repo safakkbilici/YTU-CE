@@ -16,7 +16,9 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 ## Terms and Lectures
 - 1x1
   * [Introduction to Computer Science](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9450&aid=3)
-    * asdasd
+    * Lecturers:
+      - [Dr. Mehmet Amaç GÜVENSAN](https://avesis.yildiz.edu.tr/amac)
+      - [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan)
 
 
 ## Contributing
