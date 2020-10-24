@@ -18,6 +18,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | Term | Lecture | Lecturers | Materials
 | ---- | ---- | ---- | ---- |
 | 1x1 | [BLM1011: Introduction to Computer Science](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9450&aid=3) | [Dr. Mehmet Amaç GÜVENSAN](https://avesis.yildiz.edu.tr/amac), [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x1/BLM1011%20-%20Introduction%20to%20Computer%20Science/Lecture%20.pdf) |
+| 1x1 | [BLM1991: Occupational Health and Safety 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9454&aid=3) | [Dr. Adem ALTAY](https://avesis.yildiz.edu.tr/aaltay/dokumanlar) | - |
       
 - **2x2**
 ## Contributing
