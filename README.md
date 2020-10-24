@@ -75,10 +75,10 @@ You are supposed to download pdf files because sometimes github cannot render bi
 
 ## Contributing
 
-Special thanks to contributors due to spreading the information, sources and knowledge free:
+Special thanks to contributors (A-Z) due to spreading the informations, sources and knowledges free:
 
+- [Kaan KESGİN](https://github.com/kaanksgn)
 - [Osman BAHTİYAR](https://github.com/osmnbhtyr)
-- [Kaan Kesgin](https://github.com/kaanksgn)
 - Yiğit YANDAŞ
 - If you want to contribute, contact safakk.bilici.2112@gmail.com or l1117086@std.yildiz.edu.tr
 
