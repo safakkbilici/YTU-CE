@@ -13,6 +13,10 @@ All hand-taken materials belong to me or [contributors](https://github.com/safak
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this repository's contents, and changing it is allowed as long as the name is changed. 
 
+## Terms and Lectures
+- 1x1
+  * xd
+
 
 ## Contributing
 
