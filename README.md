@@ -38,6 +38,15 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 1x2 | [MDB1032: Advanced English II](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=851&aid=3) | - | - |
 
 ### 2 x 3
+| Term | Lecture | Lecturers | Materials
+| ---- | ---- | ---- | ---- |
+| 2x3 | [BLM2011: Statistics And Probability](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9456&aid=3) | [Dr. Ferkan YILMAZ](https://avesis.yildiz.edu.tr/ferkan), [Dr. Oğuz ALTUN](https://avesis.yildiz.edu.tr/oaltun) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/BLM1012%20-%20Introduction%20to%20Structured%20Programming/Lecture%20Notes.pdf) |
+| 2x3 | [BLM1022: Numerical Analysis](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9452&aid=3) | [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri), [Dr. Zeyneb KURT](https://avesis.yildiz.edu.tr/zeyneb/) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/BLM1022%20-%20Numerical%20Analysis/Lecture%20Notes.pdf) |
+| 2x3 | [BLM1032: Circuit Theory](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7309&aid=3) | [Prof. Dr. Nizamettin AYDIN](https://avesis.yildiz.edu.tr/naydin), [Dr. Hamza Osman İLHAN](https://avesis.yildiz.edu.tr/hoilhan) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/BLM1032%20-%20Circuit%20Theory/Circuit%20Theory%20Notes.pdf), [2016 Midterm](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/BLM1032%20-%20Circuit%20Theory/Midterm.pdf), [2017 Final](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/BLM1032%20-%20Circuit%20Theory/Final.pdf) |
+| 2x3 | [FIZ1951: Semiconductor Physics for Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1954&aid=3) | [Dr. Çiğdem ORUÇ](https://avesis.yildiz.edu.tr/oruc) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/FIZ1951%20-%20Semiconductors%20for%20Engineers/T%C3%BCm%20Konular%20Ders%20Notu.pdf), [2018 Final](https://github.com/safakkbilici/YTU-CE/blob/master/1x2/FIZ1951%20-%20Semiconductors%20for%20Engineers/2018%20Final.pdf) |
+| 2x3 | [BLM1992: Occupational Health and Safety 2](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9455&aid=3) | [Dr. Adem ALTAY](https://avesis.yildiz.edu.tr/aaltay/dokumanlar) | - |
+| 2x3 | [MAT1072: Mathematics 2](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1032&aid=3)| [Dr. Filiz KANBAY](https://avesis.yildiz.edu.tr/fkanbay)  |[Lecture Notes And Examples](https://github.com/safakkbilici/YTU-CE/tree/master/1x2/MAT1072%20-%20Mathematics%202)|
+| 2x3 | [MDB1032: Advanced English II](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=851&aid=3) | - | - |
 
 
 
