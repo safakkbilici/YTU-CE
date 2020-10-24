@@ -34,9 +34,11 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
     * Lecturers
   * [MAT1071: Mathematics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3)
     * Lecturers
+      * [Dr. Salih ÇELİK](https://avesis.yildiz.edu.tr/sacelik)
+      * [Dr. Erdal GÜL](https://avesis.yildiz.edu.tr/gul)
     * Materials
       * [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x1/MAT1071%20-%20Mathematics%201/Notes.pdf)
-      * [Dr. Pinar ALBAYRAK's Notes][https://github.com/safakkbilici/YTU-CE/tree/master/1x1/MAT1071%20-%20Mathematics%201%20/P%C4%B1nar%20Albayrak%20Avesis]
+      * [Dr. Pinar ALBAYRAK's Notes](https://github.com/safakkbilici/YTU-CE/tree/master/1x1/MAT1071%20-%20Mathematics%201%20/P%C4%B1nar%20Albayrak%20Avesis)
 ## Contributing
 
 Special thanks to contributors due to spreading the information, sources and knowledge free:
