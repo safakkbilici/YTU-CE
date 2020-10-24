@@ -23,6 +23,8 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 1x1 | [ATA1031: Principles of Atatürk and History of Modern Turkey I](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=3298&aid=3) | - | - |
 | 1x1 | [FIZ1001: Physics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3) | [Dr. Macide ÖZTÜRK RODOP](https://avesis.yildiz.edu.tr/mcrodop/deneyim), [Prof. Dr. Kemal ÖZDOĞAN](https://avesis.yildiz.edu.tr/kozdogan) | - |
 | 1x1 | [MAT1071: Mathematics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3) | [Dr. Salih ÇELİK](https://avesis.yildiz.edu.tr/sacelik), [Dr. Erdal GÜL](https://avesis.yildiz.edu.tr/gul) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x1/MAT1071%20-%20Mathematics%201/Notes.pdf), [Dr. Pinar ALBAYRAK's Notes](https://github.com/safakkbilici/YTU-CE/tree/master/1x1/MAT1071%20-%20Mathematics%201%20/P%C4%B1nar%20Albayrak%20Avesis) |
+| 1x1 | [Elective 1-1](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=196&aid=3) | - | - |
+| 1x1 | [Advanced English I](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=847&aid=3) | -| - | 
       
 ### 1x2
 | Term | Lecture | Lecturers | Materials
