@@ -32,6 +32,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
   * [ATA1031: Principles of Atatürk and History of Modern Turkey I](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=3298&aid=3)
   * [FIZ1001: Physics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3)
     * Lecturers
+      * [Dr. Macide ÖZTÜRK RODOP](https://avesis.yildiz.edu.tr/mcrodop/deneyim)
   * [MAT1071: Mathematics 1](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=1820&aid=3)
     * Lecturers
       * [Dr. Salih ÇELİK](https://avesis.yildiz.edu.tr/sacelik)
@@ -39,6 +40,8 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
     * Materials
       * [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/1x1/MAT1071%20-%20Mathematics%201/Notes.pdf)
       * [Dr. Pinar ALBAYRAK's Notes](https://github.com/safakkbilici/YTU-CE/tree/master/1x1/MAT1071%20-%20Mathematics%201%20/P%C4%B1nar%20Albayrak%20Avesis)
+      
+- **2x2**
 ## Contributing
 
 Special thanks to contributors due to spreading the information, sources and knowledge free:
