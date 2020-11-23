@@ -1,0 +1,17 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'datacom.blg'
+[30] biber:287> INFO - === Çrş Kas 18, 2020, 22:57:44
+[102] Biber.pm:348> INFO - Reading 'datacom.bcf'
+[212] Biber.pm:742> INFO - Found 7 citekeys in bib section 0
+[216] Biber.pm:3151> INFO - Processing section 0
+[238] Biber.pm:3308> INFO - Looking for bibtex format file 'datacom.bib' for section 0
+[274] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[296] bibtex.pm:974> INFO - Found BibTeX data source 'datacom.bib'
+[368] Utils.pm:147> WARN - The field 'keywords' in entry 'IJARCS1980' cannot be null, deleting it
+[421] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[421] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[421] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
+[422] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[430] bbl.pm:519> INFO - Writing 'datacom.bbl' with encoding 'UTF-8'
+[467] bbl.pm:615> INFO - Output to datacom.bbl
+[467] Biber.pm:109> INFO - WARNINGS: 1
