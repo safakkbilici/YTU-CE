@@ -82,3 +82,11 @@ Special thanks to contributors (A-Z) due to spreading the informations, sources 
 - Yiğit YANDAŞ
 - If you want to contribute, contact safakk.bilici.2112@gmail.com or l1117086@std.yildiz.edu.tr
 
+## Status
+- I f*** the commit system by reverting so I lost the .tex related image files. Thus, BLM3011: Operating Systems will have 2 lecture notes, the latter one will be continuation of first one.
+
+- I don't enjoy BLM3051: Data Communication so I really dont want to update the lecture notes. But eventually some day they will be updated.
+
+- BLM3041: Database Management will be added soon.
+
+- BLM3120: Information Retrieval and Web Search Engines is on the way.
