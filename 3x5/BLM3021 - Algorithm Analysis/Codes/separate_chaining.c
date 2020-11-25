@@ -19,9 +19,10 @@ typedef struct node NODE;
 void insert(HASH**,int,int,char*);
 NODE* createNode(int,char*);
 int search(HASH**,int,int);
-
+void delete(HASH**,int,int);
+void printHash(HASH**,int);
 int main(){
-  int m = 97;
+  int m = 7;
   HASH* hashTable = NULL;
   hashTable = (HASH*)calloc(m,sizeof(HASH));
   int key;
@@ -30,17 +31,20 @@ int main(){
   if(hashTable == NULL){
     fprintf(stderr,"Memory could not be allocated.\n");
   }
-  key = 98;
+  key = 9;
   strcpy(name,"Hello");
   insert(&hashTable,key,m,name);
-  int s = search(&hashTable,31,m);
-  for(int i=0; i<m; i++){
-    if(hashTable[i].head != NULL){
-      printf("%d, %d, %s\n",i,(hashTable[i].head)->key, (hashTable[i].head)->name);
-    }
-  }
-  printf("search: %d\n",s);
-
+  insert(&hashTable,16,m,name);
+  insert(&hashTable,23,m,name);
+  insert(&hashTable,30,m,name);
+  insert(&hashTable,17,m,name);
+  //int s = search(&hashTable,31,m);
+  printHash(&hashTable,m);
+  delete(&hashTable,9,m);
+  delete(&hashTable,16,m);
+  delete(&hashTable,23,m);
+  printf("\n");
+  printHash(&hashTable,m);
   return 0;
 }
 
@@ -88,6 +92,59 @@ int search(HASH** hashTable, int searchkey, int m){
       else{
         return -1;
       }
+    }
+  }
+}
+
+void delete(HASH** hashTable, int delkey, int m){
+  int hashIndex = delkey % m;
+  if((*hashTable)[hashIndex].head == NULL){
+    return;
+  }
+  else{
+    if(((*hashTable)[hashIndex].head)->key == delkey){
+      NODE* temp = (*hashTable)[hashIndex].head;
+      (*hashTable)[hashIndex].head = ((*hashTable)[hashIndex].head)->next;
+      free(temp);
+    }
+    else if(((*hashTable)[hashIndex]).count > 1){
+      NODE* current = (*hashTable)[hashIndex].head;
+      NODE* before = current;
+      while(current->next != NULL && current->key!=delkey){
+        before = current;
+        current = current->next;
+      }
+      if(current->key == delkey){
+        if(current->next == NULL){
+          free(current);
+          before->next = NULL;
+        }
+        else{
+          before->next = current->next;
+          free(current);
+        }
+      }
+    }
+  }
+}
+
+void printHash(HASH** hashTable, int m){
+  int i;
+  for(i=0; i<m; i++){
+    if((*hashTable)[i].head == NULL){
+      printf("[%d]: Empty\n",i);
+    }
+    else if((*hashTable)[i].count == 1){
+      printf("[%d]: %d\n",i,((*hashTable)[i].head)->key);
+    }
+    else if((*hashTable)[i].count > 1){
+      printf("[%d]: ",i);
+      NODE* current = (*hashTable)[i].head;
+      while(current->next != NULL){
+        printf("%d -> ",current->key);
+        current = current->next;
+      }
+      printf("%d\n",current->key);
     }
   }
 }
