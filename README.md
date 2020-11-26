@@ -68,15 +68,17 @@ You are supposed to download pdf files because sometimes github cannot render bi
 | 3x5 | [BLM3011: Operating Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7185&aid=3) | [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan), [Dr. Ali Gökhan YAVUZ](https://avesis.yildiz.edu.tr/gokhan) | [Lecture Notes (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3011%20-%20Operating%20Systems/Lecture%20Notes.pdf) |
 | 3x5 | [BLM3021: Algorithm Analysis](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7817&aid=3) | [Dr. Mine Elif KARSLIGİL YAVUZ](https://avesis.yildiz.edu.tr/elif), [Dr. Mehmet Amaç GÜVENSAN](https://avesis.yildiz.edu.tr/amac) | [Lecture Notes (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3021%20-%20Algorithm%20Analysis/Lecture%20Notes.pdf) |
 | 3x5 | [BLM3031: Microprocessor Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7356&aid=3) | [Dr. Erkan USLU](https://avesis.yildiz.edu.tr/euslu) , [Dr. Hamza Osman İLHAN](https://avesis.yildiz.edu.tr/hoilhan) | [Lecture Notes (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3031%20-%20Microprocessor%20Systems/Lecture%20Notes.pdf) |
-| 3x5 | [BLM3041: Database Management](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=3889&aid=3) | [Furkan ÇAKMAK](https://avesis.yildiz.edu.tr/fcakmak) , [Dr. Mustafa Utku KALAY](https://avesis.yildiz.edu.tr/ukalay) | (Updating)  |
+| 3x5 | [BLM3041: Database Management](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=3889&aid=3) | [Furkan ÇAKMAK](https://avesis.yildiz.edu.tr/fcakmak) , [Dr. Mustafa Utku KALAY](https://avesis.yildiz.edu.tr/ukalay) | [Lecture Notes (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3041%20-%20Database%20Management/Lecture%20Notes.pdf), [Cheat Sheet (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3041%20-%20Database%20Management/Cheat%20Sheet%20(1-7).pdf)  |
 | 3x5 | [BLM3051: Data Communication](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=6003&aid=3) | [Furkan ÇAKMAK](https://avesis.yildiz.edu.tr/fcakmak)| [Lecture Notes (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3051%20-%20Data%20Communication/Lecture%20Notes.pdf) |
-| 3x5 | [Occupational Elective 1-1 (BLM3120: Information Retrieval and Web Search Engines)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9465&aid=3) | [Dr. Mehmet Sıddık AKTAŞ](https://avesis.yildiz.edu.tr/aktas/) | (Updating) |
+| 3x5 | [Occupational Elective 1-1 (BLM3120: Information Retrieval and Web Search Engines)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9465&aid=3) | [Dr. Mehmet Sıddık AKTAŞ](https://avesis.yildiz.edu.tr/aktas/) | [Cheat Sheet (Updating)](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3120%20-%20Information%20Retrieval%20and%20Web%20Search%20Engines/Cheat%20Sheet.pdf) |
 | 3x5 | [Elective 1-2](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=196&aid=3) | - |  - |
 
 ## Contributing
 
 Special thanks to contributors (A-Z) due to spreading the informations, sources and knowledges free:
 
+- [Barış YERLİKAYA](https://github.com/abarisyerlikaya)
+- [Semih ŞENEL](https://github.com/semihsenel)
 - [Kaan KESGİN](https://github.com/kaanksgn)
 - [Osman BAHTİYAR](https://github.com/osmnbhtyr)
 - Yiğit YANDAŞ
