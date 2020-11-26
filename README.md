@@ -82,6 +82,17 @@ Special thanks to contributors (A-Z) due to spreading the informations, sources 
 - Yiğit YANDAŞ
 - If you want to contribute, contact safakk.bilici.2112@gmail.com or l1117086@std.yildiz.edu.tr
 
+## Are Those Lecture Notes Still Valid?
+Mostly yes, the curriculum of lectures do not change frequently. Almost all lecture notes belong to me (hand-taken, not like ownership). So they are parallel with my year:
+- 1x1: 2018
+- 1x2: 2019
+- 2x3: 2019
+- 2x4: 2020
+- 3x5: 2020
+- 3x6: 2021
+- 4x7: 2021
+- 4x8: 2022
+
 ## Lecturer Up-To-Dateness
 Lecturers change frequently. Please update lecturers by contributing. If you are not familiar with pull-request and git, you can always use my email.
 
