@@ -99,10 +99,4 @@ Mostly yes, the curriculum of lectures do not change frequently. Almost all lect
 Lecturers change frequently. Please update lecturers by contributing. If you are not familiar with pull-request and git, you can always use my email.
 
 ## Status
-- I f*** the git commit system by reverting so I lost the .tex related image files, means I cannot compile old TeX files anymore. Thus, BLM3011: Operating Systems will have 2 lecture notes, the latter one will be continuation of first one.
-
-- I don't enjoy BLM3051: Data Communication so I really dont want to update the lecture notes. But eventually some day they will be updated.
-
-- BLM3041: Database Management will be added soon.
-
-- BLM3120: Information Retrieval and Web Search Engines is on the way.
+- It was difficult to take meticulous notes in online education...
