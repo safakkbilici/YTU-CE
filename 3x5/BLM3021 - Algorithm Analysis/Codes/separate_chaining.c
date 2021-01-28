@@ -21,6 +21,7 @@ NODE* createNode(int,char*);
 int search(HASH**,int,int);
 void delete(HASH**,int,int);
 void printHash(HASH**,int);
+
 int main(){
   int m = 7;
   HASH* hashTable = NULL;
@@ -40,9 +41,9 @@ int main(){
   insert(&hashTable,17,m,name);
   //int s = search(&hashTable,31,m);
   printHash(&hashTable,m);
-  delete(&hashTable,9,m);
+  //delete(&hashTable,9,m);
   delete(&hashTable,16,m);
-  delete(&hashTable,23,m);
+  //delete(&hashTable,23,m);
   printf("\n");
   printHash(&hashTable,m);
   return 0;
@@ -60,7 +61,6 @@ void insert(HASH** hashTable, int key, int m, char* name){
     (*hashTable)[hashIndex].head = newNode;
     (*hashTable)[hashIndex].count += 1;
   }
-
 }
 
 NODE* createNode(int key, char* name){

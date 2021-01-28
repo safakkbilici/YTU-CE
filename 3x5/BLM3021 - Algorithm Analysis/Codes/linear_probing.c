@@ -6,23 +6,38 @@ void insert(int**,int,int);
 int search(int**,int,int);
 
 int main(){
-  int m = 7;
-  int key = 9;
+  int m = 17;
   int* hashTable = (int*)calloc(m,sizeof(int));
   for(int i=0; i<m; i++){
     hashTable[i] = -2;
   }
-  insert(&hashTable,key,m);
-  insert(&hashTable,16,m);
-  insert(&hashTable,23,m);
-  for(int i=0; i<m; i++){
-    if(hashTable[i] != -2){
-      printf("%d: %d\n",i,hashTable[i]);
-    }
+
+  int arr1[15];
+  int arr2[20];
+  int i;
+  for(i=0; i<15; i++){
+    printf("Enter %d element of arr1: ",i);
+    scanf("%d",&arr1[i]);
+    printf("\n");
+  }
+  for(i=0; i<20; i++){
+    printf("Enter %d element of arr1: ",i);
+    scanf("%d",&arr2[i]);
+    printf("\n");
   }
 
-  int s = search(&hashTable,9,m);
-  printf("%d\n",s);
+  for(i=0; i<15; i++){
+    insert(&hashTable,arr1[i],m);
+  }
+  int intersec;
+  printf("Intersection: ");
+  for(i=0; i<20; i++){
+    intersec = search(&hashTable,arr2[i],m);
+    if(intersec != -1){
+      printf("%d - ",intersec);
+    }
+  }
+  printf("\n");
 
   return 0;
 }
@@ -60,14 +75,14 @@ int search(int** hashTable, int key, int m){
         hashIndex = (key + i) % m;
       }
       if((*hashTable)[hashIndex] == key){
-        return 0;
+        return (*hashTable)[hashIndex];
       }
       else{
         return -1;
       }
     }
     else{
-      return 1;
+      return (*hashTable)[hashIndex];
     }
   }
 }
