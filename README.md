@@ -9,11 +9,16 @@ This is not a official YTU - CE repository. Repository contains
 - Example Questions
 - And other useful informations about department and lecturers...
 
-All hand-taken materials belong to me or [contributors](https://github.com/safakkbilici/YTU-CE/blob/master/CONTRIBUTORS). Some lecture notes were not hand-taken (LaTeX PDF-DVI or something else). Lecture slides, homework explanation documents, past midterms or finals, example questions (training for exams) belong to lecturer. Lecturers will be annotated with its academic year + avesis website + scholar. A lot of homeworks have solutions of mine.
+All hand-taken materials belong to me or [contributors](https://github.com/safakkbilici/YTU-CE/blob/master/CONTRIBUTORS). Some lecture notes were not hand-taken (LaTeX PDF-DVI or something else). 
 
-Everyone is permitted to copy and distribute verbatim or modified copies of this repository's contents, and changing it is allowed as long as the name is changed.
+Lecture slides, homework explanation documents, past midterms or finals, example questions (training for exams) belong to lecturer, I do not own the rights. 
 
-You are supposed to download pdf files because sometimes github cannot render big pdf files. It is meaningless to clone the whole repository.
+Lecturers will be annotated with its academic year + avesis website + scholar. A lot of homeworks have solutions of mine.
+
+## Distributing
+Everyone is permitted to copy and distribute verbatim or modified copies of this repository's contents, and changing it is allowed as long as the name is changed. This repository is not constrained with Yildiz Technical University. Other universities are welcome to distribute, modify etc. Please read [WTFPL Licence](http://www.wtfpl.net/) for more.
+
+**Note**: You are supposed to download pdf files because sometimes github cannot render big pdf files. It is meaningless to clone the whole repository.
 
 ## Terms and Lectures
 ### 1x1
