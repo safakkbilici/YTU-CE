@@ -18,7 +18,7 @@ Lecturers will be annotated with its academic year + avesis website + scholar. A
 ## Distributing
 Everyone is permitted to copy and distribute verbatim or modified copies of this repository's contents, and changing it is allowed as long as the name is changed. This repository is not constrained with Yildiz Technical University. Other universities are welcome to distribute, modify etc. Please read [WTFPL License](http://www.wtfpl.net/) for more.
 
-**Note**: You are supposed to download pdf files because sometimes github cannot render big pdf files. It is meaningless to clone the whole repository (current size: 564 MB).
+**Note**: You are supposed to download pdf files because sometimes github cannot render big pdf files. It is meaningless to clone the whole repository if you have limited or slow Internet connection. If you are satisfied with your Internet connection speed, then clone it, and git pull it occasionally. (current size: 564 MB).
 
 ## Terms and Lectures
 ### 1x1
