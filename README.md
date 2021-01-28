@@ -80,7 +80,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 
 ## Contributing
 
-Special thanks to contributors (A-Z) due to spreading the informations, sources and knowledges free:
+Special thanks to contributors (A-Z) due to spreading the notes and sources free:
 
 - [Barış YERLİKAYA](https://github.com/abarisyerlikaya)
 - [Kaan KESGİN](https://github.com/kaanksgn)
