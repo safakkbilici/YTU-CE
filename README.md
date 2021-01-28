@@ -11,7 +11,7 @@ This is not a official YTU - CE repository. Repository contains
 
 All hand-taken materials belong to me or [contributors](https://github.com/safakkbilici/YTU-CE/blob/master/CONTRIBUTORS). Some lecture notes were not hand-taken (LaTeX PDF-DVI or something else). 
 
-Lecture slides, homework explanation documents, past midterms or finals, example questions (training for exams) belong to lecturer, I do not own the rights. 
+[Lecture slides, homework explanation documents, past midterms or finals, example questions (training for exams) belong to lecturer, I do not own the rights. ](https://github.com/safakkbilici/YTU-CE/blob/master/Annotated%20Bibliography.md)
 
 Lecturers will be annotated with its academic year + avesis website + scholar. A lot of homeworks have solutions of mine.
 
