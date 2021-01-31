@@ -1,0 +1,34 @@
+STAK SEGMENT PARA STACK 'STACK'
+     DW 20 DUP(?)
+STAK ENDS
+
+
+DATA SEGMENT PARA 'DATA'
+     DIGITS DB 00H
+DATA ENDS
+
+CODE SEGMENT PARA 'CODE'
+     ASSUME CS:CODE, DS:DATA, SS:STAK
+START PROC
+
+      MOV AX, DATA
+      MOV DS, AX
+
+      ENDLESS:
+        MOV DX, 200H
+        MOV AL, 00H
+        OUT DX, AL
+
+        MOV DX,400H
+        INTR_KONTROL:
+          IN AL, DX
+          TEST AL, 80H
+          JNZ INTR_KONTROL
+
+        MOV DX, 200H
+        IN AL, DX
+
+
+        JMP ENDLESS
+        RET
+START ENDP
