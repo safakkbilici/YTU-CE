@@ -84,7 +84,7 @@ Special thanks to contributors (A-Z) due to spreading the notes and sources free
 
 - [Barış YERLİKAYA](https://github.com/abarisyerlikaya)
 - [Kaan KESGİN](https://github.com/kaanksgn)
-- [Osman BAHTİYAR](https://github.com/osmnbhtyr)
+- [Osman BAHTİYAR](https://github.com/osmanbahtiyar)
 - [Semih ŞENEL](https://github.com/semihsenel)
 - Yiğit YANDAŞ
 - If you want to contribute, contact safakk.bilici.2112@gmail.com or l1117086@std.yildiz.edu.tr
