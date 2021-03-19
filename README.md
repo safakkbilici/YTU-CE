@@ -83,7 +83,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | Term | Lecture | Lecturers | Materials
 | ---- | ---- | ---- | ---- |
 | 3x6 | [BLM3012: Occupational Law and Ethics](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5774&aid=3) | [Dr. Göksel BİRİCİK](https://avesis.yildiz.edu.tr/gbiricik/)| - |
-| 3x6 | [BLM3022: Computer Networking Technologies](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7233&aid=3) | [Dr. Ali Gökhan YAVUZ](https://avesis.yildiz.edu.tr/gokhan/), [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan) | - |
+| 3x6 | [BLM3022: Computer Networking Technologies](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7233&aid=3) | [Dr. Ali Gökhan YAVUZ](https://avesis.yildiz.edu.tr/gokhan/), [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/3x6/BLM3022%20-%20Computer%20Networking%20Technologies/Lecture%20Notes.pdf) |
 | 3x6 | [BLM3722: Software Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5755&aid=3) | [Prof. Dr. Oya KALIPSIZ](https://avesis.yildiz.edu.tr/kalipsiz) , [Dr. Yunus Emre SELÇUK](https://avesis.yildiz.edu.tr/yselcuk) | - |
 | 3x6 | [BLM4800: Introduction to Data Mining (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5455&aid=3) | [Prof. Dr. Songul VARLI](https://avesis.yildiz.edu.tr/svarli)| - |
 | 3x6 | [BLM4830 - Introduction to Robot Technologies (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=6244&aid=3) | [Furkan ÇAKMAK](https://avesis.yildiz.edu.tr/fcakmak) | - |
