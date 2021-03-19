@@ -85,7 +85,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 3x6 | [BLM3012: Occupational Law and Ethics](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5774&aid=3) | [Dr. Göksel BİRİCİK](https://avesis.yildiz.edu.tr/gbiricik/)| - |
 | 3x6 | [BLM3022: Computer Networking Technologies](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7233&aid=3) | [Dr. Ali Gökhan YAVUZ](https://avesis.yildiz.edu.tr/gokhan/), [Dr. Ziya Cihan TAYŞİ](https://avesis.yildiz.edu.tr/cihan) | - |
 | 3x6 | [BLM3722: Software Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5755&aid=3) | [Prof. Dr. Oya KALIPSIZ](https://avesis.yildiz.edu.tr/kalipsiz) , [Dr. Yunus Emre SELÇUK](https://avesis.yildiz.edu.tr/yselcuk) | - |
-| 3x6 | [BLM4800: Introduction to Data Mining ()](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5455&aid=3) | [Prof. Dr. Songul VARLI](https://avesis.yildiz.edu.tr/svarli)| - |
+| 3x6 | [BLM4800: Introduction to Data Mining (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5455&aid=3) | [Prof. Dr. Songul VARLI](https://avesis.yildiz.edu.tr/svarli)| - |
 | 3x6 | [BLM4830 - Introduction to Robot Technologies (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=6244&aid=3) | [Furkan ÇAKMAK](https://avesis.yildiz.edu.tr/fcakmak) | - |
 | 3x6 | [BLM3010 - Computer Projects](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=6283&aid=3) | - |  - |
 | 3x6 | [BLM3002 - General Internship](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7872&aid=3) | - |  - |
