@@ -86,3 +86,5 @@
 
 - [Occupational Elective 1-1 (BLM3120: Information Retrieval and Web Search Engines) -- Slides](https://github.com/safakkbilici/YTU-CE/blob/master/3x5/BLM3120%20-%20Information%20Retrieval%20and%20Web%20Search%20Engines/AllSlides.pdf): [https://www.cs.uic.edu/~liub/WebMiningBook.html](https://www.cs.uic.edu/~liub/WebMiningBook.html)
 
+
+Please cite if you use any document that is listed here.
