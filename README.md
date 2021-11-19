@@ -117,3 +117,4 @@ Lecturers change frequently. Please update lecturers by contributing. If you are
 
 ## Status
 - It was difficult to take meticulous notes in online education...
+- No, I am not dead yet. I will upload 4x7 as well.
