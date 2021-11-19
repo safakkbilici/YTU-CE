@@ -90,6 +90,15 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 3x6 | [BLM3010 - Computer Projects](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=6283&aid=3) | - |  - |
 | 3x6 | [BLM3002 - General Internship](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7872&aid=3) | - |  - |
 
+### 4x7
+| Term | Lecture | Lecturers | Materials
+| ---- | ---- | ---- | ---- |
+| 4x7 | [BLM4011: Security of Computer Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7234&aid=3) | [Prof. Dr. Hasan Hüseyin BALIK](https://avesis.yildiz.edu.tr/balik)| - |
+| 4x7 | [BLM4021: Embedded Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9463&aid=3) | Dr. Ali Can KARACA | - |
+| 4x7 | [BLM4050: Image Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7820&aid=3) | [Dr. Mine Elif KARSLIGİL YAVUZ](https://avesis.yildiz.edu.tr/elif) | - |
+| 4x7 | [BLM4580: Introduction Natural Language Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5972&aid=3) | [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri)| - |
+| 4x7 | [BLM3590 - Statistical Data Analysis (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7321&aid=3) | [Prof. Dr. Nizamettin AYDIN](https://avesis.yildiz.edu.tr/naydin) | - |
+
 ## Contributing
 
 Special thanks to contributors (A-Z) due to spreading the notes and sources free:
