@@ -94,7 +94,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | Term | Lecture | Lecturers | Materials
 | ---- | ---- | ---- | ---- |
 | 4x7 | [BLM4011: Security of Computer Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7234&aid=3) | [Prof. Dr. Hasan Hüseyin BALIK](https://avesis.yildiz.edu.tr/balik)| [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/4x7/BLM4011%20-%20Security%20of%20Computer%20Systems/Lecture%20Notes.pdf) |
-| 4x7 | [BLM4021: Embedded Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9463&aid=3) | Dr. Ali Can KARACA | - |
+| 4x7 | [BLM4021: Embedded Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9463&aid=3) | Dr. Ali Can KARACA | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/4x7/BLM4021%20-%20Embedded%20Systems/Lecture%20Notes.pdf) |
 | 4x7 | [BLM4050: Image Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7820&aid=3) | [Dr. Mine Elif KARSLIGİL YAVUZ](https://avesis.yildiz.edu.tr/elif) | - |
 | 4x7 | [BLM4580: Introduction Natural Language Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5972&aid=3) | [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri)| - |
 | 4x7 | [BLM3590 - Statistical Data Analysis (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7321&aid=3) | [Prof. Dr. Nizamettin AYDIN](https://avesis.yildiz.edu.tr/naydin) | - |
