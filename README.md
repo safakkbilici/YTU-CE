@@ -126,5 +126,6 @@ Mostly yes, the curriculum of lectures do not change frequently. Almost all lect
 Lecturers change frequently. Please update lecturers by contributing. If you are not familiar with pull-request and git, you can always use my email.
 
 ## Status
-- It was difficult to take meticulous notes in online education...
-- No, I am not dead yet. I will upload 4x7 as well.
+- (22 Jan 2021) It was difficult to take meticulous notes in online education...
+- (19 Nov 2021) No, I am not dead yet. I will upload 4x7 as well.
+- (16 Jan 2022) I am dead inside. But I uploaded almost all 4x7. Ready to farewell: 4x8.
