@@ -93,7 +93,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 ### 4x7
 | Term | Lecture | Lecturers | Materials
 | ---- | ---- | ---- | ---- |
-| 4x7 | [BLM4011: Security of Computer Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7234&aid=3) | [Prof. Dr. Hasan Hüseyin BALIK](https://avesis.yildiz.edu.tr/balik)| [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/4x7/BLM4011%20-%20Security%20of%20Computer%20Systems/Lecture%20Notes.pdf) |
+| 4x7 | [BLM4011: Security of Computer Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7234&aid=3) | [Prof. Dr. Hasan Hüseyin BALIK](https://avesis.yildiz.edu.tr/balik)| [Lecture Notes](https://github.com/safakkbilici/YTU-CE/tree/master/4x7/BLM4011%20-%20Security%20of%20Computer%20Systems) |
 | 4x7 | [BLM4021: Embedded Systems](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=9463&aid=3) | Dr. Ali Can KARACA | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/tree/master/4x7/BLM4021%20-%20Embedded%20Systems) |
 | 4x7 | [BLM4050: Image Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7820&aid=3) | [Dr. Mine Elif KARSLIGİL YAVUZ](https://avesis.yildiz.edu.tr/elif) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/4x7/BLM4050%20-%20Image%20Processing/Lecture%20Notes.pdf), [Past Midterm](https://github.com/safakkbilici/YTU-CE/blob/master/4x7/BLM4050%20-%20Image%20Processing/Midterm.pdf) |
 | 4x7 | [BLM4580: Introduction Natural Language Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5972&aid=3) | [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri)| - |
@@ -104,6 +104,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 Special thanks to contributors (A-Z) due to spreading the notes and sources free:
 
 - [Barış YERLİKAYA](https://github.com/abarisyerlikaya)
+- [Enes Sadi Uysal](https://github.com/enesadi)
 - [Kaan KESGİN](https://github.com/kaanksgn)
 - [Osman BAHTİYAR](https://github.com/osmanbahtiyar)
 - [Semih ŞENEL](https://github.com/semihsenel)
