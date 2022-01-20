@@ -34,28 +34,28 @@ typedef struct graph{
 
 PATH* create_path(int);
 NODE* create_node(int,FLIGHT);
-GRAPH* create_graph(int);						//initilization of graph
+GRAPH* create_graph(int);				//initilization of graph
 void add_edge(GRAPH*,int,int,FLIGHT);			//adding two given edges and their weightes
-void print_graph(GRAPH*);						//for printing the representation of the graph to the console
-PATH* find_path(GRAPH*,PATH*,int*,int,int,int);	//finding al possible paths between two nodes and save them in a linked list 
+void print_graph(GRAPH*);				//for printing the representation of the graph to the console
+PATH* find_path(GRAPH*,PATH*,int*,int,int,int);		//finding al possible paths between two nodes and save them in a linked list 
 char** get_total_city_number(int*); 			//return matrix with city names in it and return number of cities with a pointer
-void add_all_edges(GRAPH*,char**);				//reading text and adding all edges to initialized graph
+void add_all_edges(GRAPH*,char**);			//reading text and adding all edges to initialized graph
 void calculate_time_and_cost(GRAPH*,PATH*);		//after finding possible paths, to calculate their cost and time
-void sort_by_time(PATH**,int);					//for sorting the linked list for paths by their time
-void sort_by_cost(PATH**,int);					//for sorting the linked list for paths by their cost
-PATH* swap(PATH*,PATH*);						//swapping two linked list nodes
-void print_flights(PATH*,int,char**,int,int);	//print paths within given constraints
+void sort_by_time(PATH**,int);				//for sorting the linked list for paths by their time
+void sort_by_cost(PATH**,int);				//for sorting the linked list for paths by their cost
+PATH* swap(PATH*,PATH*);				//swapping two linked list nodes
+void print_flights(PATH*,int,char**,int,int);		//print paths within given constraints
 
 int main(){
 	
 	int i, count, from, to, transit, timeORcost, terminate = 0;		//count-> total path   
-																	//from->source city of the flight   to->destnation city of the flight   t
-																	//ransit->max transit flights of connection given by user
-																	//timeORcost->for user to decide sorting type
-	int *path, path_index, num_of_cities;							//path-> to save possible roats temporarily 
-	char **cities;													//matrix for storing city names
+										//from->source city of the flight   to->destnation city of the flight
+										//transit->max transit flights of connection given by user
+										//timeORcost->for user to decide sorting type
+	int *path, path_index, num_of_cities;					//path-> to save possible roats temporarily 
+	char **cities;								//matrix for storing city names
 	GRAPH *g1;								
-	PATH *p1 = NULL, *tmp; 											//head(pointer) of the linked list that stores all possible paths and a temporary pointer(tmp)
+	PATH *p1 = NULL, *tmp; 							//head(pointer) of the linked list that stores all possible paths and a temporary pointer(tmp)
 	
 	//Read text and initiliaze the graph
 	cities = get_total_city_number(&num_of_cities);
