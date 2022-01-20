@@ -5,18 +5,18 @@
 #include<conio.h>
 
 
-int get_total_sample_number();          //txt dosyasında bulunan toplam nokta adedini döndüren fonksiyon
-int** matrix_allocation(int);			//nokta sayısı kadar Nx2 boyutunda matrix allocate eden fonksiyon
-void read_from_txt(int**,int);			//txt dosyasında bulunan noktları okuyup oluşturulan matrixe kaydeden fonksiyon
-float find_closest_pair(int**,int,int);	//Divide&Conquer algoritması ile en yakın iki noktayı bulan fonksiyon
-float brute_force(int**,int,int);		//eleman sayısı üçten küçük olan anlarda en kısa uzunluğu bulan fonksiyon
-float find_min(float,float);			//verilen iki noktadan minimum olanını bulan fonksiyon
-float line_closest(int**,int,float);	//ikiye bölünen matrixin ortasından belli bir noktaya kadar tarayan ve minimum(mevcut ise)
-										// uzaklığı döndüren fonksiyon
-float distance(int**,int,int);			//iki nokta arasındaki uzaklığı hesaplayan fonksiyon
-void free_matrix(int**,int);			//allocate edilen matrix alanını boşaltan fonksiyon
-void InsertionSort_by_x(int**,int);		//verilen matrixi inseriton sort uygulayarak x değerlerine göre sıralayan fonksiyon
-void InsertionSort_by_y(int**,int);		//verilen matrixi inseriton sort uygulayarak y değerlerine göre sıralayan fonksiyon
+int get_total_sample_number();          //txt dosyasinda bulunan toplam nokta adedini dÃ¶ndÃ¼ren fonksiyon
+int** matrix_allocation(int);			//nokta sayÃ½sÃ½ kadar Nx2 boyutunda matrix allocate eden fonksiyon
+void read_from_txt(int**,int);			//txt dosyasÃ½nda bulunan noktlarÃ½ okuyup oluÃ¾turulan matrixe kaydeden fonksiyon
+float find_closest_pair(int**,int,int);	//Divide&Conquer algoritmasÃ½ ile en yakÃ½n iki noktayÃ½ bulan fonksiyon
+float brute_force(int**,int,int);		//eleman sayÃ½sÃ½ Ã¼Ã§ten kÃ¼Ã§Ã¼k olan anlarda en kÃ½sa uzunluÃ°u bulan fonksiyon
+float find_min(float,float);			//verilen iki noktadan minimum olanÃ½nÃ½ bulan fonksiyon
+float line_closest(int**,int,float);	//ikiye bÃ¶lÃ¼nen matrixin ortasÃ½ndan belli bir noktaya kadar tarayan ve minimum(mevcut ise)
+										// uzaklÃ½Ã°Ã½ dÃ¶ndÃ¼ren fonksiyon
+float distance(int**,int,int);			//iki nokta arasÃ½ndaki uzaklÃ½Ã°Ã½ hesaplayan fonksiyon
+void free_matrix(int**,int);			//allocate edilen matrix alanÃ½nÃ½ boÃ¾altan fonksiyon
+void InsertionSort_by_x(int**,int);		//verilen matrixi inseriton sort uygulayarak x deÃ°erlerine gÃ¶re sÃ½ralayan fonksiyon
+void InsertionSort_by_y(int**,int);		//verilen matrixi inseriton sort uygulayarak y deÃ°erlerine gÃ¶re sÃ½ralayan fonksiyon
 
 int main(){
 	
