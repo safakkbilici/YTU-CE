@@ -1,0 +1,9 @@
+Istanbul Berlin 4 0 200
+Istanbul Atina 2 20 120
+Berlin Helsinki 6 10 250
+Berlin Paris 1 15 100
+Riga Vilnius 0 50 75
+Varsova Tallin 1 15 125
+Tallin Helsinki 0 20 50
+Helsinki Oslo 1 0 80
+Vilnius Berlin 2 15 150
