@@ -104,8 +104,8 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 Special thanks to contributors (A-Z) due to spreading the notes and sources free:
 
 - [Barış YERLİKAYA](https://github.com/abarisyerlikaya)
-- [Batuhan Lel](https://github.com/batuhanlel)
-- [Enes Sadi Uysal](https://github.com/enesadi)
+- [Batuhan LEL](https://github.com/batuhanlel)
+- [Enes Sadi UYSAL](https://github.com/enesadi)
 - [Kaan KESGİN](https://github.com/kaanksgn)
 - [Osman BAHTİYAR](https://github.com/osmanbahtiyar)
 - [Semih ŞENEL](https://github.com/semihsenel)
