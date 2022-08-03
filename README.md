@@ -130,4 +130,5 @@ Lecturers change frequently. Please update lecturers by contributing. If you are
 - (22 Jan 2021) It was difficult to take meticulous notes in online education...
 - (19 Nov 2021) No, I am not dead yet. I will upload 4x7 as well.
 - (16 Jan 2022) I am dead inside. But I uploaded almost all 4x7. Ready to farewell: 4x8.
-- (27 May 2022) I am going to be graduated in a month, finally. I am planning that I will be maintaining this repository, however, there will be no additional lecture notes anymore. Contributors are only welcome for past exams and homeworks. See you on the other side.
+- (27 May 2022) I am going to be graduated in a month, finally. I am planning that I will be maintaining this repository, however, there will be no additional lecture notes anymore. Contributors are only welcome for past exams and homeworks.
+- (3 Aug 2022) Just graduated. I didn't take any notes for 4x8. This is the last status. See you on the other side.
